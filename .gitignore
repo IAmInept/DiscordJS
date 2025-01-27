@@ -129,4 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-.\src\token\config.json
+# Remove Discord Token
+src/token/
